@@ -1,0 +1,5 @@
+youtube-transcript-api
+sentence-transformers
+requests
+python-dotenv
+numpy
